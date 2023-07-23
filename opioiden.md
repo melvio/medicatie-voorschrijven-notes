@@ -8,6 +8,7 @@ Situaties:
 * Bij opioïdrotatie vanwege bijwerkingen: geef 75% van de equi-analgetische dosis.
 * Bij opioïdrotatie vanwege onvoldoende effect: geef 100% van de equi-analgetische dosis.
 
+![Rotatie-NHG](https://github.com/melvio/medicatie-voorschrijven-notes/assets/31448155/68c7eb21-a742-43e0-b22d-9de56bbe5177)
 
 
 
